@@ -1,3 +1,11 @@
+# Math Magicians
+
+Have your own calculator verson on your local machine. Responsive on all screens. Built to suit your needs.
+
+## Live Demo
+
+Not available yet 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
