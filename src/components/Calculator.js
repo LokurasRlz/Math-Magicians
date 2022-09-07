@@ -25,7 +25,7 @@ export default class Calculator extends React.Component {
         <button type="button" onClick={this.clickHandler} className="gray">AC</button>
         <button type="button" onClick={this.clickHandler} className="gray">+/-</button>
         <button type="button" onClick={this.clickHandler} className="gray">%</button>
-        <button type="button" onClick={this.clickHandler} className="orange">+</button>
+        <button type="button" onClick={this.clickHandler} className="orange">÷</button>
         <button type="button" onClick={this.clickHandler} className="gray">7</button>
         <button type="button" onClick={this.clickHandler} className="gray">8</button>
         <button type="button" onClick={this.clickHandler} className="gray">9</button>
