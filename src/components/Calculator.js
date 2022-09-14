@@ -9,7 +9,7 @@ const Calculator = () => {
   };
   const { next, operation, total } = state;
   return (
-    <div className="calculator">
+    <div className="calculator content">
       <div className="display">{ next || operation || total || 0 }</div>
       <button type="button" onClick={clickHandler} className="gray">AC</button>
       <button type="button" onClick={clickHandler} className="gray">+/-</button>
